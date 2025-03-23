@@ -11,7 +11,8 @@
 
 - 🤓 Always learning **new things**
 
-- 👨‍💻 All of my projects are available at [https://github.com/soniya822/my-portpolio](https://soniya822.github.io/My_original_portfoliyo/)
+- 👨‍💻 All of my projects are available at [https://github.com/soniya822/My_original_portfoliyo
+](https://soniya822.github.io/My_original_portfoliyo/)
 
 - 📫 How to reach me **soniyakalpani9@gmail.com**
 
